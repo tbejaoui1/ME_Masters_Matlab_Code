@@ -3,4 +3,6 @@ Mechanical Masters Thesis' Matlab code for developing Kalman and low pass filter
 
 All code will be found in the folder titled 'code'. 
 
+Data used will be found in the folder titled 'ME DATA'. 
+
 Report can be found in the folder titled 'Final Report'. 
